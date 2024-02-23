@@ -1,0 +1,4 @@
+baseURL = 'https://informatikconsulting.net/'
+languageCode = 'de-de'
+title = 'BisschenTestenHelloWorld'
+theme = 'ananke'
